@@ -35,7 +35,7 @@ const data = [
   //   icon: faAngellist,
   // },
   {
-    link: 'https://twitter.com/eren23',
+    link: 'https://twitter.com/erenakbulut23',
     label: 'Twitter',
     icon: faTwitter,
   },
