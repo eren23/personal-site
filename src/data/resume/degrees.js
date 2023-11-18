@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Bielefeld University',
+    degree: 'M.S. Intelligent Systems',
+    link: 'https://uni-bielefeld.de',
+    year: 2023,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Istanbul Gelisim University',
+    degree: 'B.S. Computer Engineering',
+    link: 'https://gelisim.edu.tr',
+    year: 2017,
   },
 ];
 
